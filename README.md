@@ -14,7 +14,7 @@ Passionate about building scalable backend applications using Java and Spring Bo
 - 🌱 Currently learning **Docker, Kubernetes, Kafka, System Design**
 - ☁ Microsoft Certified: **AZ-900** & **DP-900**
 - 🧠 Solving Data Structures & Algorithms regularly
-- 🎯 Goal: Build production-ready applications and become a Backend Software Engineer
+- 🎯 Goal: Build production-ready applications 
 
 ---
 
@@ -161,11 +161,11 @@ Topics include:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://www.linkedin.com/in/sadwika-pabba-912547237/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:pabba.sadwika11@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -173,14 +173,9 @@ Topics include:
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/u/pabba-sadwika/">
+<a href="https://leetcode.com/u/sadwika9024/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
 
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
